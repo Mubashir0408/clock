@@ -1,0 +1,18 @@
+
+body{
+    background-color:skyblue;
+}
+.block{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     height: 100vh;
+}
+#clock{
+    font-size: 30px;
+    justify-content: center;
+    padding: 50px 130px;
+    border-radius: 10px;
+    background-color: red;
+}
